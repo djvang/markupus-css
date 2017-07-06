@@ -1,0 +1,22 @@
+.card {}
+.card-image img {
+    display: block;
+    width: 100%;
+}
+
+.card-icon {}
+.card-title {}
+.card-content {}
+.card-description {}
+
+.card-header {}
+.card-body {}
+.card-footer {}
+.card-hover {}
+
+.card-top {}
+.card-right {}
+.card-left {}
+.card-bottom {}
+
+.card:hover .card-hover {}
